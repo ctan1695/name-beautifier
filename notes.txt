@@ -1,0 +1,5 @@
+Possible features
+
+-- add dropdown to select user's desired font weight, color and font family
+-- connect to a db to store all names the user has previously beautified
+    -- add button to front end to allow user to see all names previously beautified
